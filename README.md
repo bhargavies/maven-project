@@ -1,2 +1,2 @@
 # maven-project
-project source code for jenkins
+Project source code for jenkins
